@@ -1,3 +1,4 @@
+#!/bin/bash
 export ARCH="i686"
 export PRECMD="linux32"
 export MINICONDA_FILE="Miniconda3-3.19.0-Linux-x86.sh"
